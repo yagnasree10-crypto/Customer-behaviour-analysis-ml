@@ -13,4 +13,4 @@ NumPy
 Matplotlib/seaborn
 scikit-learn
 ## Status
-project development i progress
+project development in progress
